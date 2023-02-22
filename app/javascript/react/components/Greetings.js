@@ -19,7 +19,7 @@ const Greetings = () => {
   }
 
   return (
-    <p>{ greeting }</p>
+    <p>{ greeting.greeting }</p>
   );
 };
 
